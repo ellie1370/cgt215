@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/park1843/github/unrealtest/cgt215/Content/Lec4exe1/lec4exe1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/park1843/github/unrealtest/cgt215/Content/Lec4exe1/lec4exe1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/DA/O0VDGKN3OXDILAAJ15GK35.uasset",
+				"C:/Users/park1843/github/unrealtest/cgt215/Content/Lec4exe1/lec4exe1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/EZ/M4WE8GP5VIHWDGXOA4LWT7.uasset",
+				"C:/Users/park1843/github/unrealtest/cgt215/Content/Lec4exe1/lec4exe1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/JX/HJEF9BQ71SVY0FTRVDF784.uasset",
+				"C:/Users/park1843/github/unrealtest/cgt215/Content/Lec4exe1/lec4exe1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/FR/IBRXFGGZ8P4QDNX6LO2PSJ.uasset",
+				"C:/Users/park1843/github/unrealtest/cgt215/Content/Lec4exe1/lec4exe1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/SK/WE67Y4B0JVE0Y2T8WC9CK3.uasset",
+				"C:/Users/park1843/github/unrealtest/cgt215/Content/Lec4exe1/lec4exe1/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+			]
+		}
+	]
+}
